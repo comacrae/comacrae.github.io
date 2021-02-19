@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\images"
+    "\\assets\\css",
+    "\\assets\\sass"
   ],
-  "SelectedNode": "\\images\\jordan-whitfield-JTO6QgcPB68-unsplash.jpg",
+  "SelectedNode": "\\resume.html",
   "PreviewInSolutionExplorer": false
 }
