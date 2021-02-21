@@ -3,8 +3,9 @@
     "",
     "\\assets",
     "\\assets\\css",
-    "\\assets\\sass"
+    "\\assets\\sass",
+    "\\images"
   ],
-  "SelectedNode": "\\resume.html",
+  "SelectedNode": "\\images\\jordan-whitfield.jpg",
   "PreviewInSolutionExplorer": false
 }
