@@ -1,9 +1,4 @@
----
-title: Blog Post 8
-author: Colin MacRae
-date: 8-31-21
 
----
 
 # A Ramble on Schedules and My Love for Libby
 
